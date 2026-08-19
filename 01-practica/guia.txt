@@ -1,0 +1,31 @@
+En el buscador de google buscar "Virtual box"
+ descargar la version para Windows
+Descargar Ubuntu 16.04 (si es version más nueva no hay problema)
+Una vez descargado configurar ubuntu en virtual box 
+Dar click en "Nuevo"
+Asignarle un nombre a la caja 
+En la parte de "ISO image" seleccionar el ubuntu que descargaste
+Dar click en "Siguiente"
+En esa parte colocar nombre de usuario y contraseña (ojo con la contraseña con esa vas a iniciar sesión)
+Dar click en "Siguiente"
+Configurar la ISO a tu gusto (configurarla de modo que no afecte tu dispositivo de computo)
+Dar click en "Terminar y si seguiste los pasos correctamente debe de aparecerte la pantalla de inicio 
+Como paso siguiente vas a descargar VisualStudio 
+Debes verificar si tiene descargado Git, si no, descargarlo
+Una vez hayas verificado eso debes iniciar sesión en la plataforma GitHub 
+Despues de eso, debes crear un repositorio 
+Dar click en "Nuevo" 
+Le asignas un nombre 
+Lo configuras con lp siguiente:
+Chose visibiity: pubic
+Add README: ON
+Add .gitignore: No .gitignore
+Add license: GNU General pubic License V3.0
+Dar click en "Create repository"
+En VisualStudio en la pestaña de source Control (circulos conectados) dar click en "Clone Git repository"
+Vincular la cuenta de GitHub CON VisualStudio
+Ya que esta vincuado en VisualStudio debe de aparecer el nombre de tu repositorio con los archivos de "LICENSE" y README.md
+Despues debes crear una carpeta en tu repositorio dando cick a "Folder" y le asignas un nombre
+creas otra carpeta que se llama "01-practica"
+En esa carpeta crear un archivo "file"
+Asignarle de nombre "guia.txt"
