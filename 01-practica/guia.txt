@@ -24,8 +24,8 @@ Add license: GNU General pubic License V3.0
 Dar click en "Create repository"
 En VisualStudio en la pestaña de source Control (circulos conectados) dar click en "Clone Git repository"
 Vincular la cuenta de GitHub CON VisualStudio
-Ya que esta vincuado en VisualStudio debe de aparecer el nombre de tu repositorio con los archivos de "LICENSE" y README.md
+Ya que esta vinculado en VisualStudio debe de aparecer el nombre de tu repositorio con los archivos de "LICENSE" y README.md
 Despues debes crear una carpeta en tu repositorio dando cick a "Folder" y le asignas un nombre
 creas otra carpeta que se llama "01-practica"
 En esa carpeta crear un archivo "file"
-Asignarle de nombre "guia.txt"
+Asignarle de nombre "guia.txt"                                                      
