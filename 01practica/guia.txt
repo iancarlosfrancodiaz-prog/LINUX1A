@@ -28,4 +28,7 @@ Ya que esta vinculado en VisualStudio debe de aparecer el nombre de tu repositor
 Despues debes crear una carpeta en tu repositorio dando cick a "Folder" y le asignas un nombre
 creas otra carpeta que se llama "01-practica"
 En esa carpeta crear un archivo "file"
-Asignarle de nombre "guia.txt"                                                      
+Asignarle de nombre "guia.txt" 
+Al momento de querer guardar aparecera la pestaña "Error" 
+Para solucionar este problema dirijete a la pestaña "Terminal"
+Y deberas colocar los siguientes comandos:
